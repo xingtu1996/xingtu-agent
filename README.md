@@ -30,6 +30,18 @@ Agent 的文章很多，能说清「当时为什么这么选、后来遇到什�
 
 团队知识问答助手（含 spec 驱动的需求→设计→任务→验收链路）属于**方法论层可复用案例**：本仓只收录脱敏后的机制与决策链（如何拆 spec、如何做验收、如何留证据），不收录具体项目实体、代码、内网路径或客户信息。相关占位见 [`cases/_pending/`](cases/_pending/)，补齐脱敏稿前不得入库。
 
+
+## 归属与导航
+
+本仓属于[行途 XingTu 开源矩阵](https://github.com/xingtu1996)的案例集分区，主题独立维护；[名片仓](https://github.com/xingtu1996)只做索引，不复制本仓内容。
+
+案例集分四仓，按边界分工、互相引用：
+
+- [xingtu-testting](https://github.com/xingtu1996/xingtu-testting) · AI 测试
+- [xingtu-bot](https://github.com/xingtu1996/xingtu-bot) · Bot 形态
+- [xingtu-agent](https://github.com/xingtu1996/xingtu-agent) · Agent 落地
+- [xingtu-bci](https://github.com/xingtu1996/xingtu-bci) · 协作坏例
+
 ## 快速开始
 
 ```bash

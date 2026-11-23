@@ -30,6 +30,17 @@ There are many articles about Agents, but few explain "why we chose this at the 
 
 A team knowledge-QA assistant (including the spec-driven requirements to design to tasks to acceptance chain) is a reusable methodology-layer case. This repo records only the de-identified mechanisms and decision chains — how to split specs, run acceptance, and keep evidence. It does not record project entities, code, internal paths, or client information. Placeholders live in `cases/_pending/`; nothing enters the repo until a de-identified draft is ready.
 
+## Home and Navigation
+
+This repo belongs to the case-study section of the [XingTu open-source matrix](https://github.com/xingtu1996) and is maintained independently. The [profile repo](https://github.com/xingtu1996) only indexes; it does not duplicate this repo's content.
+
+The four case repos divide by boundary and cross-reference each other:
+
+- [xingtu-testting](https://github.com/xingtu1996/xingtu-testting) - AI testing
+- [xingtu-bot](https://github.com/xingtu1996/xingtu-bot) - Bot form factors
+- [xingtu-agent](https://github.com/xingtu1996/xingtu-agent) - Agent deployment
+- [xingtu-bci](https://github.com/xingtu1996/xingtu-bci) - Collaboration bad cases
+
 ## Quick start
 
 ```bash
